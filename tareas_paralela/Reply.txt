@@ -1,0 +1,16 @@
+======== R E S U L T A D O S D E G R A P A R: ========
+
+La hoja 1 ha sido amontonada
+
+La hoja 2 ha sido amontonada
+
+La hoja 3 ha sido amontonada
+
+La hoja 4 ha sido amontonada
+
+Se han engrapado 4 hojas
+
+
+Número de paquetes: 1
+
+El número de hojas sobrantes es: 1
